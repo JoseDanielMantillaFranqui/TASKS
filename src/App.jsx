@@ -6,7 +6,7 @@ import LogoTasks from './img/logo-footer-tasks.png'
 const AppTasks = styled.div`
   color: white;
   background-color: #d6ffc0;
-  padding:40px 0 40px 0;
+  padding:40px 0 0 0;
   display: flex;
   flex-wrap:wrap;
   justify-content: center;
